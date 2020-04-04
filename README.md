@@ -1,1 +1,3 @@
-# MI-Labor3
+
+ MI-Labor3
+ NIM nevű játék.
